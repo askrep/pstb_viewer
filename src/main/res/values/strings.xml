@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SymbolTablesViewer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="color">false</string>
+    <string name="item">Item</string>
+</resources>
